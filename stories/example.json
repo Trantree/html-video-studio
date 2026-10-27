@@ -1,0 +1,25 @@
+{
+  "title": "Example Video",
+  "voice": {
+    "name": "zh-CN-YunyangNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "type": "data_card",
+      "narration": "2026年高考报名人数达到历史新高",
+      "data": {
+        "number": "726万",
+        "label": "2026年全国高考报名人数"
+      }
+    },
+    {
+      "type": "data_card",
+      "narration": "本科录取率稳定在45%左右",
+      "data": {
+        "number": "45%",
+        "label": "全国平均本科录取率"
+      }
+    }
+  ]
+}
